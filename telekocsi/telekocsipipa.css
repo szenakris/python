@@ -1,0 +1,47 @@
+body{
+    background-color: blue;
+}
+.tartalom{
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px darkgrey solid;
+}
+.auto{
+    width: 250px;
+    float: right;
+    margin-left: 20px;
+}
+
+.kiemelt{
+    font-weight: bold;
+    color: red;
+}
+.forras{
+    text-align: right;
+}
+.menu{
+    background-color: blue;
+    padding: 10px;
+}
+.menu li{
+    display: inline-block;
+    width: 100px;
+}
+.menu a{
+    color: yellow;
+}
+.urlap{
+    width: 300px;
+    margin-left: 100px;
+}
+.doboz{
+    display: inline-block;
+}
+.bal{
+    float:left
+    
+}
+.jobb{
+    float:right
+    
+}
