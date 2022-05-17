@@ -1,6 +1,6 @@
 auto = input('Egy autónév rendel!')
 
-vegsebesseg = int(input('mennyivel megy ez a '+ auto +'?')
+vegsebesseg = int(input('mennyivel megy ez a '+ auto +'?'))
 
 orszag = input('Hol készült a ' + auto + '?')
 
